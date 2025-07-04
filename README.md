@@ -17,7 +17,7 @@ This submission includes a simple HTML, CSS, and JavaScript form with basic vali
 
 ## 📹 Demo Video
 
-You can view the screen recording of the form demo [here](video/Simple%20Form%20-%20Opera%202025-07-04%2017-04-54.mp4).  
+You can view the screen recording of the form demo [here](https://drive.google.com/file/d/1zGiqCSXkfZRphQVlAwnaI1b5mkvmm0JP/view?usp=sharing).  
 *Note: Click the link to download and watch the video.*
 
    
